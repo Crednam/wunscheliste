@@ -1,4 +1,4 @@
-## wunscheliste
+## wunschliste
 wunscheliste für Weihnachten
 
 ## dinge
